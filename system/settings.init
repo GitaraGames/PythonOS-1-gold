@@ -1,0 +1,9 @@
+self.color = "blue"
+self.desktop_color = "blue"
+self.buttons_color = "light blue"
+self.buttons_text_color = "black"
+self.width = 800
+self.height = 450
+self.language = "en/en" # (en/en) or (ru/ru)
+
+
